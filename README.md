@@ -31,8 +31,8 @@ This Terraform configuration deploys a complete development environment in Micro
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Preacher-Goldhand/azure-dev-env-terraform_devops.git
+   cd azure-dev-env-terraform_devops
    ```
 
 2. **Initialize Terraform**:
