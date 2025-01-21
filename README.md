@@ -1,4 +1,4 @@
-# Terraform Azure Dev Environment
+# Dev Environment in Azure Cloud & Terraform
 
 This Terraform configuration deploys a complete development environment in Microsoft Azure. It provisions a Linux Virtual Machine (VM) with a public IP address, alongside the necessary networking components to ensure secure and efficient connectivity.
 
